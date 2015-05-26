@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://purl.org/rss/1.0/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:taxo="http://purl.org/rss/1.0/modules/taxonomy/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:syn="http://purl.org/rss/1.0/modules/syndication/" xmlns:admin="http://webns.net/mvcb/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0">
+
+<channel rdf:about="http://slashdot.org/">
+<title>Slashdot</title>
+<link>http://slashdot.org/</link>
+<description>News for nerds, stuff that matters</description>
+<dc:language>en-us</dc:language>
+<dc:rights>Copyright 1997-2015, Dice. All Rights Reserved. Slashdot is a Dice Holdings, Inc. service</dc:rights>
+<dc:date>2015-03-26T05:46:16+00:00</dc:date>
+<dc:publisher>Dice</dc:publisher>
+<dc:creator>help@slashdot.org</dc:creator>
+<dc:subject>Technology</dc:subject>
+<syn:updateBase>1970-01-01T00:00+00:00</syn:updateBase>
+<syn:updateFrequency>1</syn:updateFrequency>
+<syn:updatePeriod>hourly</syn:updatePeriod>
+<items>
+ <rdf:Seq>
+  <rdf:li rdf:resource="http://yro.slashdot.org/story/15/03/25/2227227/european-commission-proposes-digital-single-market-and-end-to-geoblocking?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://science.slashdot.org/story/15/03/25/2223202/the-one-thousand-genes-you-could-live-without?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://entertainment.slashdot.org/story/15/03/25/2217250/dad-and-daughter-recreate-jurassic-park-with-100000-in-lego-pieces?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/03/25/222258/comcasts-incompetence-lack-of-broadband-may-force-developer-to-sell-home?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/03/25/227241/facebook-makes-messenger-a-platform?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://science.slashdot.org/story/15/03/25/2142240/nasas-arm-will-take-a-boulder-from-an-asteroid-and-put-it-in-lunar-orbit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://hardware.slashdot.org/story/15/03/25/2031241/amazon-robot-contest-may-accelerate-warehouse-automation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://hardware.slashdot.org/story/15/03/25/2017244/first-nuclear-power-plant-planned-in-jordan?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/03/25/1954211/dueling-home-automation-systems-at-sxsw-video?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://yro.slashdot.org/story/15/03/25/1917255/radioshack-puts-customer-data-up-for-sale-in-bankruptcy-auction?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://games.slashdot.org/story/15/03/25/1915200/gen-con-threatens-to-leave-indianapolis-over-religious-freedom-bill?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://science.slashdot.org/story/15/03/25/180212/scientists-create-permanently-slick-surface-so-ketchup-wont-stay-in-bottle?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://mobile.slashdot.org/story/15/03/25/1657241/researchers-smartphone-use-changing-our-brain-and-thumb-interaction?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://science.slashdot.org/story/15/03/25/173219/sierra-nevadas-dream-chaser-could-land-at-ellington-space-port-near-houston?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+  <rdf:li rdf:resource="http://tech.slashdot.org/story/15/03/25/1615230/how-nuclear-weapon-modernization-undercuts-disarmament?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed" />
+ </rdf:Seq>
+</items>
+<image rdf:resource="http://a.fsdn.com/sd/topics/topicslashdot.gif" />
+<textinput rdf:resource="http://slashdot.org/search.pl" />
+<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rdf+xml" href="http://rss.slashdot.org/Slashdot/slashdot" /><feedburner:info uri="slashdot/slashdot" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /></channel>
+<image rdf:about="http://a.fsdn.com/sd/topics/topicslashdot.gif">
+<title>Slashdot</title>
+<url>http://a.fsdn.com/sd/topics/topicslashdot.gif</url>
+<link>http://slashdot.org/</link>
+</image>
+<item rdf:about="http://yro.slashdot.org/story/15/03/25/2227227/european-commission-proposes-digital-single-market-and-end-to-geoblocking?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>European Commission Proposes "Digital Single Market" and End To Geoblocking</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/5pp6SSpmADg/european-commission-proposes-digital-single-market-and-end-to-geoblocking</link>
+<description>An anonymous reader writes A new initiative from the European Commission proposes a reformed "single digital market", addressing a number of issues that it sees as obstructions to EU growth, including geoblocking &amp;mdash; where services such as BBC's iPlayer are only available to IP addresses within the host country &amp;mdash; and the high cost of parcel delivery and administration of disparate VAT rates across the member states. The ramifications of many of the proposals within the Digital Single Market project extend to non-EU corporations which have built their business model on the current isolationism of member state markets.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=European+Commission+Proposes+%22Digital+Single+Market%22+and+End+To+Geoblocking%3A+http%3A%2F%2Fbit.ly%2F1BqaHfi"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fyro.slashdot.org%2Fstory%2F15%2F03%2F25%2F2227227%2Feuropean-commission-proposes-digital-single-market-and-end-to-geoblocking%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://yro.slashdot.org/story/15/03/25/2227227/european-commission-proposes-digital-single-market-and-end-to-geoblocking?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://yro.slashdot.org/story/15/03/25/2227227/european-commission-proposes-digital-single-market-and-end-to-geoblocking?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7152563&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/5pp6SSpmADg" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-03-26T04:34:00+00:00</dc:date>
+<dc:subject>eu</dc:subject>
+<slash:department>one-big-happy-family</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>8</slash:comments>
+<slash:hit_parade>8,8,4,4,0,0,0</slash:hit_parade>
+<feedburner:origLink>http://yro.slashdot.org/story/15/03/25/2227227/european-commission-proposes-digital-single-market-and-end-to-geoblocking?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://science.slashdot.org/story/15/03/25/2223202/the-one-thousand-genes-you-could-live-without?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>The One Thousand Genes You Could Live Without</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/z7VJFaw4V94/the-one-thousand-genes-you-could-live-without</link>
+<description>sciencehabit writes Today researchers unveiled the largest ever set of full genomes from a single population: Iceland. The massive project, carried out by a private company in the country, deCODE genetics, has yielded new disease risk genes, insights into human evolution, and a list of more than 1000 genes that people can apparently live without. The project also serves as a model for other countries' efforts to sequence their people's DNA for research on personalized medical care, says study leader K&amp;#225;ri Stef&amp;#225;nsson, deCODE's CEO. For example, the United States is planning to sequence the genomes of 1 million Americans over the next few years and use the data to devise individualized treatments.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=The+One+Thousand+Genes+You+Could+Live+Without%3A+http%3A%2F%2Fbit.ly%2F1GWV8jc"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fscience.slashdot.org%2Fstory%2F15%2F03%2F25%2F2223202%2Fthe-one-thousand-genes-you-could-live-without%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://science.slashdot.org/story/15/03/25/2223202/the-one-thousand-genes-you-could-live-without?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://science.slashdot.org/story/15/03/25/2223202/the-one-thousand-genes-you-could-live-without?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7152557&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/z7VJFaw4V94" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-03-26T02:10:00+00:00</dc:date>
+<dc:subject>biotech</dc:subject>
+<slash:department>stuff-you-don't-need</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>38</slash:comments>
+<slash:hit_parade>38,37,19,17,8,3,0</slash:hit_parade>
+<feedburner:origLink>http://science.slashdot.org/story/15/03/25/2223202/the-one-thousand-genes-you-could-live-without?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://entertainment.slashdot.org/story/15/03/25/2217250/dad-and-daughter-recreate-jurassic-park-with-100000-in-lego-pieces?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Dad and Daughter Recreate &lt;em&gt;Jurassic Park&lt;/em&gt; With $100,000 In Lego Pieces</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/sbUqJj9aMms/dad-and-daughter-recreate-jurassic-park-with-100000-in-lego-pieces</link>
+<description>mpicpp writes Animator Paul Hollingsworth and his daughter Hailee, along with some help from a few "master builders" &amp;mdash; decided to Jurassic Park using only Lego pieces. More than $100,000 in Lego were used, according to the video's description. The result is a surprisingly stunning and hilarious version of the 1993 dino-thriller. The team behind the film also released an in-depth behind-the-scenes look at the production.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Dad+and+Daughter+Recreate+Jurassic+Park+With+%24100%2C000+In+Lego+Pieces%3A+http%3A%2F%2Fbit.ly%2F1CrcTHF"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fentertainment.slashdot.org%2Fstory%2F15%2F03%2F25%2F2217250%2Fdad-and-daughter-recreate-jurassic-park-with-100000-in-lego-pieces%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://entertainment.slashdot.org/story/15/03/25/2217250/dad-and-daughter-recreate-jurassic-park-with-100000-in-lego-pieces?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://entertainment.slashdot.org/story/15/03/25/2217250/dad-and-daughter-recreate-jurassic-park-with-100000-in-lego-pieces?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7152549&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/sbUqJj9aMms" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-03-26T00:58:00+00:00</dc:date>
+<dc:subject>toy</dc:subject>
+<slash:department>play-time</slash:department>
+<slash:section>entertainment</slash:section>
+<slash:comments>32</slash:comments>
+<slash:hit_parade>32,29,12,10,5,3,1</slash:hit_parade>
+<feedburner:origLink>http://entertainment.slashdot.org/story/15/03/25/2217250/dad-and-daughter-recreate-jurassic-park-with-100000-in-lego-pieces?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://tech.slashdot.org/story/15/03/25/222258/comcasts-incompetence-lack-of-broadband-may-force-developer-to-sell-home?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Comcast's Incompetence, Lack of Broadband May Force Developer To Sell Home</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/s0--EWsIBtg/comcasts-incompetence-lack-of-broadband-may-force-developer-to-sell-home</link>
+<description>BUL2294 writes Consumerist has an article about a homeowner in Kitsap County, Washington who is unable to get broadband service. Due to inaccurate broadband availability websites, Comcast's corporate incompetence, CenturyLink's refusal to add new customers in his area, and Washington state's restrictions on municipal broadband, the owner may be left with no option but to sell his house 2 months after he bought it, since he works from home as a software developer. To add insult to injury, BroadbandMaps.gov says he has 10 broadband options in his zip code, some of which are not applicable to his address, have exorbitant costs (e.g. wireless), or are for municipal providers that are prevented from doing business with him by state law. Yet, Comcast insists in filings that "the broadband marketplace is more competitive than ever." As someone who had Comcast call to cancel on the day of my closing (two days before my scheduled install) because they didn't offer service to my house after all, I can sympathize.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Comcast's+Incompetence%2C+Lack+of+Broadband+May+Force+Developer+To+Sell+Home%3A+http%3A%2F%2Fbit.ly%2F1OzkA3o"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F03%2F25%2F222258%2Fcomcasts-incompetence-lack-of-broadband-may-force-developer-to-sell-home%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/03/25/222258/comcasts-incompetence-lack-of-broadband-may-force-developer-to-sell-home?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/03/25/222258/comcasts-incompetence-lack-of-broadband-may-force-developer-to-sell-home?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7152531&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/s0--EWsIBtg" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-03-26T00:30:00+00:00</dc:date>
+<dc:subject>business</dc:subject>
+<slash:department>no-net-for-you</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>246</slash:comments>
+<slash:hit_parade>246,241,164,137,43,27,14</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/03/25/222258/comcasts-incompetence-lack-of-broadband-may-force-developer-to-sell-home?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://tech.slashdot.org/story/15/03/25/227241/facebook-makes-messenger-a-platform?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Facebook Makes Messenger a Platform</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/bywjDM-LL90/facebook-makes-messenger-a-platform</link>
+<description>Steven Levy writes At Facebook's F8 developer conference, the ascension of the Messenger app was the major announcement. Messenger is no longer just a part of Facebook, but a standalone platform to conduct a wide variety of instant communications, not only with friends, but with businesses you may deal with as well. It will compete with other messaging services such as Snapchat, Line and even Facebook's own WhatsApp by offering a dizzying array of features, many of them fueled by the imagination and self-interest of thousands of outside software developers.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Facebook+Makes+Messenger+a+Platform%3A+http%3A%2F%2Fbit.ly%2F1N9T23c"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F03%2F25%2F227241%2Ffacebook-makes-messenger-a-platform%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/03/25/227241/facebook-makes-messenger-a-platform?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/03/25/227241/facebook-makes-messenger-a-platform?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7152533&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/bywjDM-LL90" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-03-25T23:46:00+00:00</dc:date>
+<dc:subject>facebook</dc:subject>
+<slash:department>stand-on-your-own-two-feet</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>25</slash:comments>
+<slash:hit_parade>25,25,11,9,3,2,2</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/03/25/227241/facebook-makes-messenger-a-platform?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://science.slashdot.org/story/15/03/25/2142240/nasas-arm-will-take-a-boulder-from-an-asteroid-and-put-it-in-lunar-orbit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title> NASA's ARM Will Take a Boulder From an Asteroid and Put It In Lunar Orbit</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/oWWFDeWk59Q/nasas-arm-will-take-a-boulder-from-an-asteroid-and-put-it-in-lunar-orbit</link>
+<description>coondoggie writes NASA officials today said they have picked the specific asteroid mission and offered new details for that mission which could launch in the 2020 timeframe. Specifically, NASA's associate administrator Robert Lightfoot said the Asteroid Redirect Mission (ARM) will rendezvous with the target asteroid, land a robotic spacecraft on the surface, grab a 4 meter or so sized boulder and begin a six-year journey to redirect the boulder into orbit around the moon for exploration by astronauts.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=+NASA's+ARM+Will+Take+a+Boulder+From+an+Asteroid+and+Put+It+In+Lunar+Orbit%3A+http%3A%2F%2Fbit.ly%2F1GWbYi2"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fscience.slashdot.org%2Fstory%2F15%2F03%2F25%2F2142240%2Fnasas-arm-will-take-a-boulder-from-an-asteroid-and-put-it-in-lunar-orbit%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://science.slashdot.org/story/15/03/25/2142240/nasas-arm-will-take-a-boulder-from-an-asteroid-and-put-it-in-lunar-orbit?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://science.slashdot.org/story/15/03/25/2142240/nasas-arm-will-take-a-boulder-from-an-asteroid-and-put-it-in-lunar-orbit?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7152499&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/oWWFDeWk59Q" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-03-25T23:03:00+00:00</dc:date>
+<dc:subject>nasa</dc:subject>
+<slash:department>throwing-rocks</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>54</slash:comments>
+<slash:hit_parade>54,52,33,28,4,1,0</slash:hit_parade>
+<feedburner:origLink>http://science.slashdot.org/story/15/03/25/2142240/nasas-arm-will-take-a-boulder-from-an-asteroid-and-put-it-in-lunar-orbit?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://hardware.slashdot.org/story/15/03/25/2031241/amazon-robot-contest-may-accelerate-warehouse-automation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Amazon Robot Contest May Accelerate Warehouse Automation</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/GSgVDv2QsF8/amazon-robot-contest-may-accelerate-warehouse-automation</link>
+<description>moon_unit2 writes Amazon is organizing an event to spur the development of more nimble-fingered product-packing robots. Participating teams will earn points by locating products sitting somewhere on a stack of shelves, retrieving them safely, and then packing them into cardboard shipping boxes. Robots that accidentally crush a cookie or drop a toy will have points deducted. The contest is already driving new research on robot vision and manipulation, and it may offer a way to judge progress made in the past few years in machine intelligence and dexterity. Robots capable of advanced manipulation could eventually take on many simple jobs that are still done by hand.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Amazon+Robot+Contest+May+Accelerate+Warehouse+Automation%3A+http%3A%2F%2Fbit.ly%2F19R3puI"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fhardware.slashdot.org%2Fstory%2F15%2F03%2F25%2F2031241%2Famazon-robot-contest-may-accelerate-warehouse-automation%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://hardware.slashdot.org/story/15/03/25/2031241/amazon-robot-contest-may-accelerate-warehouse-automation?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://hardware.slashdot.org/story/15/03/25/2031241/amazon-robot-contest-may-accelerate-warehouse-automation?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7152375&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/GSgVDv2QsF8" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-03-25T22:19:00+00:00</dc:date>
+<dc:subject>business</dc:subject>
+<slash:department>goodbye-minimum-wage-worker</slash:department>
+<slash:section>hardware</slash:section>
+<slash:comments>44</slash:comments>
+<slash:hit_parade>44,44,22,21,5,1,1</slash:hit_parade>
+<feedburner:origLink>http://hardware.slashdot.org/story/15/03/25/2031241/amazon-robot-contest-may-accelerate-warehouse-automation?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://hardware.slashdot.org/story/15/03/25/2017244/first-nuclear-power-plant-planned-in-jordan?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>First Nuclear Power Plant Planned In Jordan</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/L5CpDe4jfMY/first-nuclear-power-plant-planned-in-jordan</link>
+<description>jones_supa writes Jordan has signed an agreement with Russia's state-owned nuclear power giant Rosatom, that sets the legal basis for building the kingdom's first nuclear power plant with a total capacity of 2,000 MW. The agreement is worth $10 billion and it envisages the construction of a two-unit power plant at Amra in the north of the kingdom by 2022. The deal provides for a feasibility study, site evaluation process and an environmental impact assessment. Currently Jordan imports nearly 98% of its energy from oil products and crude and is struggling to meet electricity demand, which is growing by more than 7% annually due to a rising population and industrial expansion. The kingdom hopes that eventually nuclear power could provide almost 40% of its total electricity generating capacity.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=First+Nuclear+Power+Plant+Planned+In+Jordan%3A+http%3A%2F%2Fbit.ly%2F18Y1tzg"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fhardware.slashdot.org%2Fstory%2F15%2F03%2F25%2F2017244%2Ffirst-nuclear-power-plant-planned-in-jordan%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://hardware.slashdot.org/story/15/03/25/2017244/first-nuclear-power-plant-planned-in-jordan?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://hardware.slashdot.org/story/15/03/25/2017244/first-nuclear-power-plant-planned-in-jordan?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7152361&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/L5CpDe4jfMY" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-03-25T21:35:00+00:00</dc:date>
+<dc:subject>power</dc:subject>
+<slash:department>power-up</slash:department>
+<slash:section>hardware</slash:section>
+<slash:comments>76</slash:comments>
+<slash:hit_parade>76,76,53,47,20,6,4</slash:hit_parade>
+<feedburner:origLink>http://hardware.slashdot.org/story/15/03/25/2017244/first-nuclear-power-plant-planned-in-jordan?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://tech.slashdot.org/story/15/03/25/1954211/dueling-home-automation-systems-at-sxsw-video?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Dueling Home Automation Systems at SXSW (Video)</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/oFI2L3-_qco/dueling-home-automation-systems-at-sxsw-video</link>
+<description>Austin has a strong western heritage and more country and western music than you can shake a fiddle bow at. So when Timothy came back from SXSW with video clips from two home automation companies with different approaches to this question: "How can you work with a whole bunch of lights and thermostats and other IoT home automation pieces that all have different OSes and control APIs?" we obviously had to call the resulting video 'Dueling Home Automation Systems.'
+ 
+The two companies shown in this video are called WigWag and Yonomi. WigWag sells you a "Relay," which they say "is a powerful mini computer that gives you control of your home's smart devices." The minimum pre-order buy-in for WigWag seems to be a $149 WigWag Relay. Their 'products' page his page shows the Relay -- and many other gadgets and kits that could easily run your total tab up to $1000 or more. Yonomi, on the other hand, "resides on your phone and in the Cloud. No need for a hub, controller box or other additional hardware. Yonomi magically finds and enhances your existing connected devices allowing them to interact with one another in ways never before possible."
+ 
+Yonomi may start with a free Android app (iOS coming soon), but you still need to buy lights, speakers, thermostats, and other things that are Internet-aware, so you're not going to save much (if anything) over buying a WigWag relay and the rest of what you need to create your own, private Internet of Things. And what about good old X10 and other home control systems? They're still out there, still doing their thing in millions of homes even if they aren't getting all the IoT buzz. In any case, it's nice to see new home automation alternatives coming down the pike, even if their cloudness may make them easier to hack than an old-fashioned appliance like this coffeemaker.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Dueling+Home+Automation+Systems+at+SXSW+(Video)%3A+http%3A%2F%2Fbit.ly%2F1FHnZL3"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F03%2F25%2F1954211%2Fdueling-home-automation-systems-at-sxsw-video%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/03/25/1954211/dueling-home-automation-systems-at-sxsw-video?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/03/25/1954211/dueling-home-automation-systems-at-sxsw-video?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7152319&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/oFI2L3-_qco" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Roblimo</dc:creator>
+<dc:date>2015-03-25T20:52:00+00:00</dc:date>
+<dc:subject>networking</dc:subject>
+<slash:department>to-serve-man</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>36</slash:comments>
+<slash:hit_parade>36,36,19,18,7,2,1</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/03/25/1954211/dueling-home-automation-systems-at-sxsw-video?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://yro.slashdot.org/story/15/03/25/1917255/radioshack-puts-customer-data-up-for-sale-in-bankruptcy-auction?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>RadioShack Puts Customer Data Up For Sale In Bankruptcy Auction</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/rSW4Hz2G_AQ/radioshack-puts-customer-data-up-for-sale-in-bankruptcy-auction</link>
+<description>itwbennett writes For years, RadioShack made a habit of collecting customers' contact information at checkout. Now, the bankrupt retailer is putting that data on the auction block. A list of RadioShack assets for sale includes more than 65 million customer names and physical addresses, and 13 million email addresses. Bloomberg reports that the asset sale may include phone numbers and information on shopping habits as well. New York's Attorney General says his office will take 'appropriate action' if the data is handed over.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=RadioShack+Puts+Customer+Data+Up+For+Sale+In+Bankruptcy+Auction%3A+http%3A%2F%2Fbit.ly%2F1BMvNU6"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fyro.slashdot.org%2Fstory%2F15%2F03%2F25%2F1917255%2Fradioshack-puts-customer-data-up-for-sale-in-bankruptcy-auction%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://yro.slashdot.org/story/15/03/25/1917255/radioshack-puts-customer-data-up-for-sale-in-bankruptcy-auction?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://yro.slashdot.org/story/15/03/25/1917255/radioshack-puts-customer-data-up-for-sale-in-bankruptcy-auction?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7152235&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/rSW4Hz2G_AQ" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-03-25T20:05:00+00:00</dc:date>
+<dc:subject>business</dc:subject>
+<slash:department>names-and-numbers</slash:department>
+<slash:section>yro</slash:section>
+<slash:comments>205</slash:comments>
+<slash:hit_parade>205,203,139,124,24,14,10</slash:hit_parade>
+<feedburner:origLink>http://yro.slashdot.org/story/15/03/25/1917255/radioshack-puts-customer-data-up-for-sale-in-bankruptcy-auction?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://games.slashdot.org/story/15/03/25/1915200/gen-con-threatens-to-leave-indianapolis-over-religious-freedom-bill?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Gen Con Threatens To Leave Indianapolis Over Religious Freedom Bill</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/vRM08GNijBk/gen-con-threatens-to-leave-indianapolis-over-religious-freedom-bill</link>
+<description>Grymalkin writes A controversial religious freedom bill has passed the Indianapolis Senate and is now awaiting Governor Mike Pence's signature to become law. Supporters claim that this bill will protect business owners from excessive government control while opponents argue it is just a veiled attempt to allow those same business owners to deny services to individuals because of their sexual orientation. Now, Gen Con has released a statement saying this bill will influence their decision to keep the convention in Indiana. This announcement has tourism officials worried as Gen Con brings in roughly 50,000 visitors each year, contributing $50 million to the local economy. So far Gen Con's announcement has not swayed the Governor who says he is looking forward to signing the bill into law. Gen Con currently has a contract with the Indy Convention Center through 2020. No word yet as to exactly when the convention would be moved should the bill become law.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Gen+Con+Threatens+To+Leave+Indianapolis+Over+Religious+Freedom+Bill%3A+http%3A%2F%2Fbit.ly%2F1CPzcqW"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fgames.slashdot.org%2Fstory%2F15%2F03%2F25%2F1915200%2Fgen-con-threatens-to-leave-indianapolis-over-religious-freedom-bill%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://games.slashdot.org/story/15/03/25/1915200/gen-con-threatens-to-leave-indianapolis-over-religious-freedom-bill?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://games.slashdot.org/story/15/03/25/1915200/gen-con-threatens-to-leave-indianapolis-over-religious-freedom-bill?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7152225&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/vRM08GNijBk" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-03-25T19:42:00+00:00</dc:date>
+<dc:subject>government</dc:subject>
+<slash:department>rolling-in-another-place</slash:department>
+<slash:section>games</slash:section>
+<slash:comments>599</slash:comments>
+<slash:hit_parade>599,589,376,325,60,27,21</slash:hit_parade>
+<feedburner:origLink>http://games.slashdot.org/story/15/03/25/1915200/gen-con-threatens-to-leave-indianapolis-over-religious-freedom-bill?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://science.slashdot.org/story/15/03/25/180212/scientists-create-permanently-slick-surface-so-ketchup-wont-stay-in-bottle?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Scientists Create Permanently Slick Surface So Ketchup Won't Stay In Bottle</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/JOIQf9O3UlI/scientists-create-permanently-slick-surface-so-ketchup-wont-stay-in-bottle</link>
+<description>HughPickens.com writes Much of what we buy never makes it out of the container and is instead thrown away &amp;mdash; up to a quarter of skin lotion, 16 percent of laundry detergent and 15 percent of condiments like mustard and ketchup. Now Kenneth Chang reports at the NYT that scientists have just solved one of life's little problems &amp;mdash; how to get that last little bit of ketchup (or glue) out of a bottle. Using a coating that makes the inside of the bottle permanently wet and slippery, glue quickly slides to the nozzle or back down to the bottom. The technology could have major environmental payoffs by reducing waste. Superhydrophobic surfaces work similar to air hockey tables. Tiny peaks and valleys on the surface create a thin layer of air between the liquid and the coating. The air decreases friction, so the liquid almost levitates above the surface, just like the hockey puck floats above the table. LiquiGlide's approach is similar, but it uses a liquid lubricant, not a gas. "What could be a solution that provides sort of universal slipperiness?" says Dr. Varanasi. "The idea we had was, Why not think about trapping a liquid in these features?" Dr. Varanasi and Mr. Smith worked out a theory to predict interactions among the surface, the lubricant and air. Essentially, the lubricant binds more strongly to the textured surface than to the liquid, and that allows the liquid to slide on a layer of lubricant instead of being pinned against the surface, and the textured surface keeps the lubricant from slipping out. "We're not defying physics, but effectively, we are," says Smith.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Scientists+Create+Permanently+Slick+Surface+So+Ketchup+Won't+Stay+In+Bottle%3A+http%3A%2F%2Fbit.ly%2F18XI7dI"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fscience.slashdot.org%2Fstory%2F15%2F03%2F25%2F180212%2Fscientists-create-permanently-slick-surface-so-ketchup-wont-stay-in-bottle%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://science.slashdot.org/story/15/03/25/180212/scientists-create-permanently-slick-surface-so-ketchup-wont-stay-in-bottle?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://science.slashdot.org/story/15/03/25/180212/scientists-create-permanently-slick-surface-so-ketchup-wont-stay-in-bottle?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7152043&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/JOIQf9O3UlI" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-03-25T19:22:00+00:00</dc:date>
+<dc:subject>science</dc:subject>
+<slash:department>greased-lightning</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>143</slash:comments>
+<slash:hit_parade>143,142,93,79,33,11,8</slash:hit_parade>
+<feedburner:origLink>http://science.slashdot.org/story/15/03/25/180212/scientists-create-permanently-slick-surface-so-ketchup-wont-stay-in-bottle?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://mobile.slashdot.org/story/15/03/25/1657241/researchers-smartphone-use-changing-our-brain-and-thumb-interaction?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Researchers: Smartphone Use Changing Our Brain and Thumb Interaction</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/yi_8ilZxygY/researchers-smartphone-use-changing-our-brain-and-thumb-interaction</link>
+<description>Rambo Tribble writes Researchers from the University of Zurich, ETH Zurich, and University of Fribourg have found evidence that smartphone use changes the way your brain interacts with your thumbs. Using electroencephalography to study brain activity in smartphone users vs. feature-phone users, they found apparently persistent, increased activity in areas of the brain associated with the thumbs. Of course, this may well be true of other repetitive activities, like keyboard use. Reuters provide a bit more approachable coverage.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Researchers%3A+Smartphone+Use+Changing+Our+Brain+and+Thumb+Interaction%3A+http%3A%2F%2Fbit.ly%2F1xgYddz"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fmobile.slashdot.org%2Fstory%2F15%2F03%2F25%2F1657241%2Fresearchers-smartphone-use-changing-our-brain-and-thumb-interaction%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://mobile.slashdot.org/story/15/03/25/1657241/researchers-smartphone-use-changing-our-brain-and-thumb-interaction?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://mobile.slashdot.org/story/15/03/25/1657241/researchers-smartphone-use-changing-our-brain-and-thumb-interaction?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7151867&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/yi_8ilZxygY" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-03-25T18:38:00+00:00</dc:date>
+<dc:subject>cellphones</dc:subject>
+<slash:department>a-mind-of-its-own</slash:department>
+<slash:section>mobile</slash:section>
+<slash:comments>40</slash:comments>
+<slash:hit_parade>40,40,26,22,6,3,2</slash:hit_parade>
+<feedburner:origLink>http://mobile.slashdot.org/story/15/03/25/1657241/researchers-smartphone-use-changing-our-brain-and-thumb-interaction?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://science.slashdot.org/story/15/03/25/173219/sierra-nevadas-dream-chaser-could-land-at-ellington-space-port-near-houston?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>Sierra Nevada's Dream Chaser Could Land At Ellington Space Port Near Houston</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/fip6q-W8HTA/sierra-nevadas-dream-chaser-could-land-at-ellington-space-port-near-houston</link>
+<description>MarkWhittington writes Despite having been rejected in NASA's commercial crew program, Sierra Nevada has been very busy trying to develop its lift body spacecraft, the Dream Chaser. Having rolled out a smaller, cargo version of the spacecraft for the second round for contracts for commercial cargo to the International Space Station, the company has amended the unfunded Space Act Agreement with NASA to add a closeout review milestone that would help transition the Dream Chaser from the preliminary design review to the critical design review step. Finally, Sierra Nevada announced a new agreement on Tuesday with the Houston Airport System to use Ellington Spaceport as a landing site for the cargo version of the Dream Chaser.&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=Sierra+Nevada's+Dream+Chaser+Could+Land+At+Ellington+Space+Port+Near+Houston%3A+http%3A%2F%2Fbit.ly%2F1BMetif"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fscience.slashdot.org%2Fstory%2F15%2F03%2F25%2F173219%2Fsierra-nevadas-dream-chaser-could-land-at-ellington-space-port-near-houston%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://science.slashdot.org/story/15/03/25/173219/sierra-nevadas-dream-chaser-could-land-at-ellington-space-port-near-houston?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://science.slashdot.org/story/15/03/25/173219/sierra-nevadas-dream-chaser-could-land-at-ellington-space-port-near-houston?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7151907&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/fip6q-W8HTA" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>samzenpus</dc:creator>
+<dc:date>2015-03-25T17:53:00+00:00</dc:date>
+<dc:subject>nasa</dc:subject>
+<slash:department>coming-soon</slash:department>
+<slash:section>science</slash:section>
+<slash:comments>22</slash:comments>
+<slash:hit_parade>22,21,16,13,4,1,0</slash:hit_parade>
+<feedburner:origLink>http://science.slashdot.org/story/15/03/25/173219/sierra-nevadas-dream-chaser-could-land-at-ellington-space-port-near-houston?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<item rdf:about="http://tech.slashdot.org/story/15/03/25/1615230/how-nuclear-weapon-modernization-undercuts-disarmament?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed">
+<title>How Nuclear Weapon Modernization Undercuts Disarmament</title>
+<link>http://rss.slashdot.org/~r/Slashdot/slashdot/~3/j6k98t2mg-s/how-nuclear-weapon-modernization-undercuts-disarmament</link>
+<description>Lasrick writes: John Mecklin details exactly how nuclear weapons modernization is kick-starting a new arms race, and how modernizing these weapons to make them more accurate and stealthy puts the world at even greater risk of nuclear war: "[T]his is precisely why the U.S. Congress rejected the Air Force&amp;rsquo;s requests for low-yield, precision-guided nuclear weapons in the 1990s: Their very accuracy increases the temptation to use them." The issue is not getting very much attention, but the patience of the non-nuclear states is wearing thin, and a breakthrough in public awareness may be on the horizon: "The disarmament debate is likely to make this spring's NPT conference a contentious one and just might be loud enough to make the public aware that a new type of nuclear arms race is unfolding around the world."&lt;p&gt;&lt;div class="share_submission" style="position:relative;"&gt;
+&lt;a class="slashpop" href="http://twitter.com/home?status=How+Nuclear+Weapon+Modernization+Undercuts+Disarmament%3A+http%3A%2F%2Fbit.ly%2F1Cq98Cg"&gt;&lt;img src="http://a.fsdn.com/sd/twitter_icon_large.png"&gt;&lt;/a&gt;
+&lt;a class="slashpop" href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Ftech.slashdot.org%2Fstory%2F15%2F03%2F25%2F1615230%2Fhow-nuclear-weapon-modernization-undercuts-disarmament%3Futm_source%3Dslashdot%26utm_medium%3Dfacebook"&gt;&lt;img src="http://a.fsdn.com/sd/facebook_icon_large.png"&gt;&lt;/a&gt;
+
+&lt;a class="nobg" href="http://plus.google.com/share?url=http://tech.slashdot.org/story/15/03/25/1615230/how-nuclear-weapon-modernization-undercuts-disarmament?utm_source=slashdot&amp;amp;utm_medium=googleplus" onclick="javascript:window.open(this.href,'', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"&gt;&lt;img src="http://www.gstatic.com/images/icons/gplus-16.png" alt="Share on Google+"/&gt;&lt;/a&gt;                                                                                                                                                                              
+
+
+
+&lt;/div&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="http://tech.slashdot.org/story/15/03/25/1615230/how-nuclear-weapon-modernization-undercuts-disarmament?utm_source=rss1.0moreanon&amp;amp;utm_medium=feed"&gt;Read more of this story&lt;/a&gt; at Slashdot.&lt;/p&gt;&lt;iframe src="http://slashdot.org/slashdot-it.pl?op=discuss&amp;amp;id=7151767&amp;amp;smallembed=1" style="height: 300px; width: 100%; border: none;"&gt;&lt;/iframe&gt;&lt;img src="//feeds.feedburner.com/~r/Slashdot/slashdot/~4/j6k98t2mg-s" height="1" width="1" alt=""/&gt;</description>
+<dc:creator>Soulskill</dc:creator>
+<dc:date>2015-03-25T17:10:00+00:00</dc:date>
+<dc:subject>military</dc:subject>
+<slash:department>perfecting-the-planetcracker</slash:department>
+<slash:section>technology</slash:section>
+<slash:comments>196</slash:comments>
+<slash:hit_parade>196,193,139,127,36,17,12</slash:hit_parade>
+<feedburner:origLink>http://tech.slashdot.org/story/15/03/25/1615230/how-nuclear-weapon-modernization-undercuts-disarmament?utm_source=rss1.0mainlinkanon&amp;utm_medium=feed</feedburner:origLink></item>
+<textinput rdf:about="http://slashdot.org/search.pl">
+<title>Search Slashdot</title>
+<description>Search Slashdot stories</description>
+<name>query</name>
+<link>http://slashdot.org/search.pl</link>
+</textinput>
+</rdf:RDF>
